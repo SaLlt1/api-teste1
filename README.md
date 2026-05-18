@@ -17,4 +17,5 @@ Antes de iniciar, é necessário ter instalado:
 
  1. Clonar o repositório
 
-```bash
+bash:
+https://github.com/SaLlt1/api-teste1.git
